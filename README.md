@@ -8,7 +8,7 @@
 
 <br>
 
-- Estudiante del Grado de Ingeniería de Tecnologías y Servicios de Telecomunicación.
+- Estudiante del Máster de Ingeniería de Telecomunicación.
 - Desarrollador de Aplicaciones Web.
 - Desarrollo simulaciones de conducción remota.
 - Actualmente trabajando en un departamento de investigación de redes en la UPM.
